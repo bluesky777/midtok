@@ -2,10 +2,7 @@
   "name": "midtok",
   "version": "0.0.0",
   "scripts": {
-<<<<<<< HEAD
     "co": "sui-mono commit",
-=======
->>>>>>> a09dcca8555cbc0e4dcb329319d9896ddd2ae24f
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
@@ -15,10 +12,7 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@s-ui/mono": "^2.18.0",
-=======
->>>>>>> a09dcca8555cbc0e4dcb329319d9896ddd2ae24f
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@vitejs/plugin-react": "^1.0.7",
@@ -27,12 +21,8 @@
     "vite": "^2.7.2"
   },
   "eslintConfig": {
-<<<<<<< HEAD
     "extends": [
       "./node_modules/standard/eslintrc.json"
     ]
-=======
-    "extends": ["./node_modules/standard/eslintrc.json"]
->>>>>>> a09dcca8555cbc0e4dcb329319d9896ddd2ae24f
   }
 }
