@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import logo from './logo.svg'
+import FeedVideos from './components/FeedVideos'
 import "./App.css"
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App"> 
       <main>
-        Tiktok clon
+        <FeedVideos />
       </main>
     </div>
   )
